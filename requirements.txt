@@ -1,0 +1,4 @@
+pgmpy
+pandas
+numpy
+scikit-learn

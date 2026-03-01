@@ -1,0 +1,17 @@
+from pgmpy.inference import VariableElimination
+from train_model import train
+
+def run_inference():
+    model = train()
+    inference = VariableElimination(model)
+
+    result = inference.query(
+        variables=['Disease'],
+        evidence={'Fever':1, 'Cough':1}
+    )
+
+    print("Diagnosis Result:")
+    print(result)
+
+if __name__ == "__main__":
+    run_inference()
