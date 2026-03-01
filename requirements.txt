@@ -2,3 +2,5 @@ pgmpy
 pandas
 numpy
 scikit-learn
+networkx
+matplotlib
