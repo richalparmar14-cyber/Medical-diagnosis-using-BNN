@@ -1,9 +1,7 @@
-pgmpy
-pandas
-numpy
-scikit-learn
-networkx
-matplotlib
 streamlit
+pandas
+pgmpy
+scikit-learn
+matplotlib
 seaborn
 plotly
