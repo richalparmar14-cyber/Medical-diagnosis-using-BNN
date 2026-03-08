@@ -1,7 +1,8 @@
 streamlit
 pandas
-pgmpy
-scikit-learn
 matplotlib
 seaborn
 plotly
+networkx
+pgmpy
+scikit-learn
