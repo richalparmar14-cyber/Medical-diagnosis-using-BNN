@@ -1,5 +1,5 @@
 from pgmpy.inference import VariableElimination
-from train_model import train
+from .train_model import train
 
 def run_inference():
     model = train()

@@ -1,0 +1,11 @@
+Fever,Cough,Headache,Fatigue,Travel_History,Mosquito_Exposure,Disease
+1,1,1,1,0,0,Flu
+1,1,0,1,1,0,COVID
+1,0,1,1,0,1,Malaria
+0,1,0,0,0,0,Flu
+1,1,1,1,1,0,COVID
+1,0,1,0,0,1,Malaria
+0,0,0,1,0,0,Flu
+1,1,1,0,1,0,COVID
+1,0,1,1,0,1,Malaria
+0,1,0,1,0,0,Flu
