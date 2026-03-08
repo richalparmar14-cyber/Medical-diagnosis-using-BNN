@@ -4,3 +4,6 @@ numpy
 scikit-learn
 networkx
 matplotlib
+streamlit
+seaborn
+plotly
